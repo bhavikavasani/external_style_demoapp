@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: rgb(255, 251, 228);
+}
+.main-section
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding:15px;
+    display: flex;
+    flex-direction: row;
+}
+hr
+{
+    width: 20%;
+    border: none;
+    height: 10px;
+    background: rgb(201, 67, 67);
+}
+.left-content
+{
+    width: 50%;
+    height: auto;
+    margin-left: 50px;
+    padding:5px;
+
+}
+.right-content
+{
+    width: 50%;
+    height: auto;
+    padding:5px;
+    
+}
+
+input[type="text"],input[type="email"],textarea
+{
+    width: 50%;
+    border: none;
+    padding: 10px;
+    margin-left: 25px;
+}
+input[type="date"],input[type="time"]
+{
+    width: 10%;
+    border: none;
+    padding: 10px;
+    margin-left: 42px;
+}
+input[type="submit"]
+{
+    width:30%;
+    border: none;
+    padding: 10px;
+    background-color: green;
+    color:white;
+    font-size: 18px;
+}
+input[type="reset"]
+{
+    width:30%;
+    border: none;
+    padding: 10px;
+    margin-left: 15px;
+    background-color: red;
+    color:white;
+    font-size: 18px;
+}
