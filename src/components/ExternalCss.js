@@ -1,7 +1,7 @@
 // This file is user define component 
 import React from "react";
 
-const bookingimg= "assets/images/appointmentimg.svg"
+const bookingimg= "assets/images/ap_01.png"
 function External()
 {
     return (
