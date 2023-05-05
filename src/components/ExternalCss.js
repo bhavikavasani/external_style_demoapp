@@ -1,4 +1,4 @@
-// This file is user define component 
+// This file is how to create own or user define component 
 import React from "react";
 
 const bookingimg= "./external_style_demoapp/assets/images/ap_01.png"
