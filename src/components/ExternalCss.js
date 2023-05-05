@@ -1,7 +1,7 @@
 // This file is how to create own or user define component 
 import React from "react";
 
-const bookingimg= "assets/images/ap_01.png"
+const bookingimg=require("assets/images/ap_01.png");
 function External()
 {
     return (
