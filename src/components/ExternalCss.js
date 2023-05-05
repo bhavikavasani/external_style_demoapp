@@ -1,12 +1,12 @@
 // This file is how to create own or user define component 
 import React from "react";
 
-const bookingimg= "./external_style_demoapp/assets/images/ap_01.png"
+const bookingimg= "assets/images/ap_01.png"
 function External()
 {
     return (
         <>
-            {/* <h1>Hello I'm Bhavika Vasani</h1> */}
+            <h1>Hello I'm Bhavika Vasani</h1>
             <section className="main-section">
                 <div className="left-content">
                     <h1 style={{lineHeight:"2",fontFamily:"cursive",color:"#F33A6A"}}>Make Your Appointment</h1>
