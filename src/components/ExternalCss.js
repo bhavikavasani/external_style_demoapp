@@ -16,7 +16,7 @@ function External()
                 <div className="right-content">
                     <h1 style={{width:"65%",lineHeight:"2",fontFamily:"cursive",color:"#FFF",backgroundColor:"#F33A6A",padding:"2px"}}>Appointment Form</h1>
                     
-                    <form method="post" className="frm">
+                    <form method="get">
                         <label for="name">Name <span style={{color:"red"}} >*</span> &nbsp;</label>
                         <input type="text" name="name" placeholder="Enter Your Name Here *" /><br /><br />
 
