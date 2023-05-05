@@ -6,7 +6,7 @@ function External()
 {
     return (
         <>
-            <h1>Hello I'm Bhavika Vasani</h1>
+
             <section className="main-section">
                 <div className="left-content">
                     <h1 style={{lineHeight:"2",fontFamily:"cursive",color:"#F33A6A"}}>Make Your Appointment</h1>
